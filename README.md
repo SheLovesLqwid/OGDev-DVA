@@ -74,6 +74,6 @@ add_ace group.staff cleanup allow
 
 ## **📢 Credits & Contributions**  
 👤 **Original Author:** [Whit3XLightning](https://github.com/Whit3XLightning)  
-🔗 **GitHub Repo:** [OGDev-DVA](https://github.com/Whit3XLightning/wld-delallveh)  
+🔗 **GitHub Repo:** [Original DVA Script](https://github.com/Whit3XLightning/wld-delallveh)  
 
 If you encounter any issues or have feature requests, feel free to open an **issue** or submit a **pull request** on GitHub.  
